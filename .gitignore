@@ -1,0 +1,13 @@
+# Ignore node_modules and env files in all subfolders
+**/node_modules/
+**/.env
+
+# macOS system file
+.DS_Store
+
+# Logs
+*.log
+
+# Optional: IDE/editor configs
+.vscode/
+.idea/
